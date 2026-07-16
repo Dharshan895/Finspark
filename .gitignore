@@ -1,0 +1,5 @@
+fvenv/
+frontend/node_modules/
+backend/__pycache__/
+audit_trail.enc
+.DS_Store
